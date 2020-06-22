@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BDBIBLIOTECAModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Categoria">
+      <EntityTypeMapping TypeName="BDBIBLIOTECAModel.Categoria">
+        <MappingFragment StoreEntitySet="Categoria">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Libro">
+      <EntityTypeMapping TypeName="BDBIBLIOTECAModel.Libro">
+        <MappingFragment StoreEntitySet="Libro">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="titulo" ColumnName="titulo" />
+          <ScalarProperty Name="autores" ColumnName="autores" />
+          <ScalarProperty Name="ISBM" ColumnName="ISBM" />
+          <ScalarProperty Name="fpublicacion" ColumnName="fpublicacion" />
+          <ScalarProperty Name="nejemplares" ColumnName="nejemplares" />
+          <ScalarProperty Name="id_categoria" ColumnName="id_categoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Video">
+      <EntityTypeMapping TypeName="BDBIBLIOTECAModel.Video">
+        <MappingFragment StoreEntitySet="Video">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="titulo" ColumnName="titulo" />
+          <ScalarProperty Name="fpublicacion" ColumnName="fpublicacion" />
+          <ScalarProperty Name="formato" ColumnName="formato" />
+          <ScalarProperty Name="duracion" ColumnName="duracion" />
+          <ScalarProperty Name="id_categoria" ColumnName="id_categoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

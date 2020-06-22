@@ -1,0 +1,66 @@
+﻿@model BEUEjemplo.Libro
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Libro</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.autores)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.autores)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ISBM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ISBM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fpublicacion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fpublicacion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nejemplares)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nejemplares)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Categoria.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Categoria.nombre)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
