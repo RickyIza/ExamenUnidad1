@@ -10,3 +10,15 @@ C:\Users\rckik\source\repos\ExamenUnidad1\BEUEjemplo\obj\Debug\BEUEjemplo.csproj
 C:\Users\rckik\source\repos\ExamenUnidad1\BEUEjemplo\obj\Debug\BEUEjemplo.csproj.CopyComplete
 C:\Users\rckik\source\repos\ExamenUnidad1\BEUEjemplo\obj\Debug\BEUEjemplo.dll
 C:\Users\rckik\source\repos\ExamenUnidad1\BEUEjemplo\obj\Debug\BEUEjemplo.pdb
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\obj\Debug\BEUEjemplo.csprojAssemblyReference.cache
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\obj\Debug\BEUEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\obj\Debug\BEUEjemplo.dll
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\obj\Debug\BEUEjemplo.pdb
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\bin\Debug\BEUEjemplo.dll.config
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\bin\Debug\BEUEjemplo.dll
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\bin\Debug\BEUEjemplo.pdb
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\bin\Debug\EntityFramework.dll
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\bin\Debug\EntityFramework.xml
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rckik\source\repos\RickyIza\ExamenUnidad1\BEUEjemplo\obj\Debug\BEUEjemplo.csproj.CopyComplete

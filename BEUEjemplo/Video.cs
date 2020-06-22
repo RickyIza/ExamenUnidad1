@@ -33,7 +33,7 @@ namespace BEUEjemplo
         [Required(ErrorMessage = "La duración es requerida"), MaxLength(55)]
         [Display(Name = "Duración")]
         public string duracion { get; set; }
-        [Display(Name = "Categoria)]
+        [Display(Name = "Categoria")]
         public Nullable<int> id_categoria { get; set; }
     
         public virtual Categoria Categoria { get; set; }
